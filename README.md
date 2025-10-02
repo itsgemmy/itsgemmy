@@ -2,13 +2,13 @@
 ### hi i'm emily
 <hr style="border:1px solid #ccc;"/>
 <p>
-  right now: <br>
+  right now: <br><br>
   🔅 i'm a SWE at <a href="https://github.com/disney" target="_blank">@Disney</a> <br> 
   🔅 & in post grad exploratory era... maybe i'll finally build a personal website<br>
 
   <br>
 
-  past stuff (that's late to the github party): <br>
+  past stuff (that's late to the github party): <br><br>
   🔅 made endless workshop JS, CSS, HTML, C++, Linux curriculum at <a href="https://gwcpurdue.my.canva.site/#page-0" target="_blank">@gwc.purdue</a> (miss my girls 😭) <br>
   🔅 became Chewy to forcast customer purchases with random forest and XGBoost for <a href="https://www.kaggle.com/competitions/cs-373-predicting-customer-purchases/overview" target="_blank">@PurdueCS</a><br>
   🔅 ShopDisney ecommerce backend at <a href="https://github.com/disney" target="_blank">@Disney</a> <br>
