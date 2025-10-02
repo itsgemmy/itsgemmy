@@ -1,5 +1,6 @@
 
 ### hi i'm emily
+<hr style="border:1px solid #ccc;"/>
 <p>
   right now: <br>
   🔅 i'm a SWE at <a href="https://github.com/disney" target="_blank">@Disney</a> <br> 
