@@ -9,7 +9,7 @@
   <br>
 
   past stuff (that's late to the github party): <br><br>
-  🔅 made endless workshop JS, CSS, HTML, C++, Linux curriculum at <a href="https://gwcpurdue.my.canva.site/#page-0" target="_blank">@gwc.purdue</a> (miss my girls 😭) <br>
+  🔅 made endless workshop curriculum for JS, CSS, HTML, C++, Linux at <a href="https://gwcpurdue.my.canva.site/#page-0" target="_blank">@gwc.purdue</a> (miss my girls 😭) <br>
   🔅 became Chewy to forcast customer purchases with random forest and XGBoost for <a href="https://www.kaggle.com/competitions/cs-373-predicting-customer-purchases/overview" target="_blank">@PurdueCS</a><br>
   🔅 ShopDisney ecommerce backend at <a href="https://github.com/disney" target="_blank">@Disney</a> <br>
   🔅 visualized some COVID-19 stats for <a href="https://docs.google.com/presentation/d/1sIU-Fiv2ByMQ2r2pOsj55Su_Ce8sRQf7X_DwwSx0NCU/edit?slide=id.ge769b1b071_0_0#slide=id.ge769b1b071_0_0" target="_blank">@GoogleCSSI</a> <br>
